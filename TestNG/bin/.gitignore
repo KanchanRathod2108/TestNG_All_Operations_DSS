@@ -1,0 +1,14 @@
+/alwaysRun/
+/basic_Program/
+/beforesuite_AfterSuite/
+/depend/
+/dssNotesAllTestNGProgram/
+/fail_testcases_Screenshot/
+/grouping_test_cases/
+/hard_soft_assertion/
+/invocationCount_in_TestNG/
+/parallel_test_execution/
+/priority/
+/screenshot.xml
+/test/
+/testNG/
